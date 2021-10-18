@@ -1,5 +1,7 @@
 # Spectrograph radiometry study
 
+This work was carried out as part of the SCIFY project for the design of Hi-5.
+
 ## Purpose
 
 These notebooks are meant to provide design guidelines for the implementation re-imaging and spectroscopy at the outputs of single mode fiber waveguides (photonics).
@@ -15,4 +17,7 @@ These notebooks are meant to provide design guidelines for the implementation re
 	- Draw the regions in the object plane (in µm) where where the contrast is greater than a certain value (i.e. to determine the minimum spacing of outputs)
 
 
+## Acknowledgement
+
+This project was funded by an ERC Consolidator grant from the European Research Council (grant agreement No.\ 866070)
 
